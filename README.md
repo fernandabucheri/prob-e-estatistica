@@ -1,6 +1,6 @@
 # Impacto dos Jogos Eletrônicos na Vida Acadêmica
 
-Trabalho final da disciplina de "Probabilidade e Estatística" que consiste em uma pesquisa com dados coletados através da plataforma Google _Forms_ e analisados com a linguagem de programação R sobre os impactos dos jogos eletrônicos na vida acadêmica. 
+Trabalho final da disciplina de "Probabilidade e Estatística" que consiste em uma pesquisa com dados coletados através da plataforma Google _Forms_ e analisados com a linguagem de programação R sobre os impactos dos jogos eletrônicos na vida acadêmica.
 
 <br>
 
